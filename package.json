@@ -1,0 +1,25 @@
+{
+  "name": "credgen",
+  "version": "1.0.0",
+  "description": "CLI based password generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishibe-rohan/nodejs-password-generator.git"
+  },
+  "author": "Kishibe Rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishibe-rohan/nodejs-password-generator/issues"
+  },
+  "homepage": "https://github.com/kishibe-rohan/nodejs-password-generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^3.0.0",
+    "commander": "^8.2.0"
+  }
+}
